@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Computer Graphics**
 - 🌱 I’m currently learning **C++ Vulkan**
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me **ljyc.me@gmail.com**
 
 # Hello~
 
