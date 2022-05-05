@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me **ljyc.me@gmail.com**
 
-# We do not learn from experience, we learn from reflecting on experience. - John Dewey
+## We do not learn from experience, we learn from reflecting on experience. - John Dewey
 
 <!---
 AlterFrozen/AlterFrozen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
