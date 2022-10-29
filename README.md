@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Frozen**
+- 👋 Hello, I’m **Frozen**
 - 👀 I’m interested in **Computer Graphics**
 - 🌱 I’m currently learning **C++ Vulkan**
 - 📫 How to reach me **ljyc.me@gmail.com**
