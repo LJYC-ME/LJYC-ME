@@ -5,7 +5,7 @@
 
 **We do not learn from experience, we learn from reflecting on experience. - John Dewey**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LJYC-ME&show_icons=true&theme=radical)
+<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LJYC-ME&show_icons=true&theme=radical)--->
 
 <!---👀
 AlterFrozen/AlterFrozen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
