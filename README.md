@@ -1,7 +1,6 @@
 - 👋 Hello, I’m **LJYC**
 - ✨ I’m interested in **Computer Graphics**
-- 🌱 I’m currently learning **C++ & Vulkan**
-- 📫 How to reach me **contact@ljyc.me**
+- 📫 How to reach me **ljyc.me@gmail.com**
 
 **We do not learn from experience, we learn from reflecting on experience. - John Dewey**
 
